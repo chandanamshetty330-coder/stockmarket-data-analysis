@@ -1,5 +1,7 @@
 📈 Predictive Stock Insights Dashboard
 
+### 👩‍💻 Developed by [Chandana M](https://github.com/chandanamshetty330-coder)
+
 A Flask-based web dashboard that provides real-time and predictive insights on stock market data using machine learning, data analysis, and visualization.
 This project helps users analyze multiple stock trends, predict future prices, and visualize historical patterns with interactive charts.
 
