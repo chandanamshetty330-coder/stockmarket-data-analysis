@@ -41,7 +41,7 @@ Frontend	HTML, CSS (Responsive Design)
 
 1. Clone the repository
 
-git clone https://github.com/chandanamshetty330-coder/stock-market-data-analysis.git
+git clone https://github.com/chandanamshetty330-coder/stockmarket-data-analysis.git
 cd stock-market-data-analysis
 
 
